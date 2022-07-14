@@ -6,3 +6,5 @@ Bananas
 Bread
 Eggs
 Cherries
+Cereal 
+Yogurt
